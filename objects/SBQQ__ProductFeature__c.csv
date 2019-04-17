@@ -1,0 +1,53 @@
+"Id","IsDeleted","Name","CurrencyIsoCode","SBQQ__Category__c","SBQQ__ConfigurationFieldSet__c","SBQQ__ConfiguredSKU__c","SBQQ__DiscountSchedule__c","SBQQ__DynamicProductFilterFieldSet__c","SBQQ__DynamicProductLookupFieldSet__c","SBQQ__MaxOptionCount__c","SBQQ__MinOptionCount__c","SBQQ__Number__c","SBQQ__OptionSelectionMethod__c"
+"a0a1N0000085v3aQAA","false","Project Management","USD",,"Professional_Services_Estimator","01t1N00000EURKdQAP",,,,,"0.0","10.0",
+"a0a1N0000085v3bQAA","false","Solution Architecture","USD",,"Professional_Services_Estimator","01t1N00000EURKdQAP",,,,,"0.0","20.0",
+"a0a1N0000085v3cQAA","false","Licenses","USD",,,"01t1N00000EURKoQAP",,,,,"0.0","10.0",
+"a0a1N0000085v3dQAA","false","Base","USD","Case","Base","01t1N00000EURKvQAP",,,,"1.0","1.0","10.0","Click"
+"a0a1N0000085v3eQAA","false","Power Distribution Units","USD","Power",,"01t1N00000EURKvQAP",,,,"3.0","0.0","30.0","Click"
+"a0a1N0000085v3fQAA","false","Air Distribution","USD","Accessories",,"01t1N00000EURKvQAP",,,,"1.0","1.0","50.0","Click"
+"a0a1N0000085v3gQAA","false","Cable Managment","USD","Accessories",,"01t1N00000EURKvQAP",,,,,"0.0","60.0","Click"
+"a0a1N0000085v3hQAA","false","Stabilization","USD","Accessories",,"01t1N00000EURKvQAP",,,,,"0.0","70.0","Click"
+"a0a1N0000085v3iQAA","false","Power Cables","USD","Power","Power_Cables","01t1N00000EURKvQAP",,,,,"0.0","40.0","Click"
+"a0a1N0000085v3jQAA","false","Slot Configuration","USD","Case","Slot","01t1N00000EURKvQAP",,,"slot_configuration",,"1.0","20.0","Add"
+"a0a1N0000085v3kQAA","false","Installation","USD","Services",,"01t1N00000EURKvQAP",,,,,"0.0","110.0","Click"
+"a0a1N0000085v3lQAA","false","Processor","USD",,"Image","01t1N00000EURKyQAP",,,,"1.0","1.0","10.0","Click"
+"a0a1N0000085v3mQAA","false","Hard Drive","USD",,"Image","01t1N00000EURKyQAP",,,,"1.0","1.0","30.0","Click"
+"a0a1N0000085v3nQAA","false","Network Adapter","USD",,"Image","01t1N00000EURKyQAP",,,,"1.0","1.0","40.0","Click"
+"a0a1N0000085v3oQAA","false","Operating System","USD","Software","No_Quantity","01t1N00000EURKvQAP",,,,"1.0","1.0","80.0","Click"
+"a0a1N0000085v3pQAA","false","Additional Software","USD","Software","No_Quantity","01t1N00000EURKvQAP",,,,,"0.0","90.0","Click"
+"a0a1N0000085v3qQAA","false","Slot","USD","Hardware",,"01t1N00000EURMfQAP",,,,"1.0","1.0","1.0","Click"
+"a0a1N0000085v3rQAA","false","Hardware Support","USD","Services","Services","01t1N00000EURKvQAP",,,,"1.0","1.0","120.0","Click"
+"a0a1N0000085v3sQAA","false","Licenses","USD",,,"01t1N00000EURLpQAP",,,,,"0.0","10.0",
+"a0a1N0000085v3tQAA","false","Add-Ons","USD",,,"01t1N00000EURLpQAP",,,,,"0.0","20.0",
+"a0a1N0000085v3uQAA","false","Training","USD",,,"01t1N00000EURLpQAP",,,,,"0.0","30.0",
+"a0a1N0000085v3vQAA","false","Services","USD",,,"01t1N00000EURLpQAP",,,,"1.0","1.0","40.0",
+"a0a1N0000085v3wQAA","false","Add-Ons","USD",,,"01t1N00000EURKoQAP",,,,,"0.0","20.0",
+"a0a1N0000085v3xQAA","false","Hosting","USD",,,"01t1N00000EURKoQAP",,,,,"0.0","30.0",
+"a0a1N0000085v3yQAA","false","Hardware","USD",,,"01t1N00000EURKoQAP",,,,"1.0","0.0","40.0",
+"a0a1N0000085v3YQAQ","false","Memory Capacity","USD",,"Image","01t1N00000EURKyQAP",,,,"1.0","1.0","20.0","Click"
+"a0a1N0000085v3zQAA","false","Maintenance","USD",,"Maintenance","01t1N00000EURKoQAP",,,,"1.0","1.0","50.0",
+"a0a1N0000085v3ZQAQ","false","Engineering Resources","USD",,"Professional_Services_Estimator","01t1N00000EURKdQAP",,,,,"0.0","30.0",
+"a0a1N0000085v40QAA","false","Training","USD",,,"01t1N00000EURKoQAP",,,,,"0.0","60.0",
+"a0a1N0000085v41QAA","false","Services","USD",,,"01t1N00000EURKoQAP",,,,"1.0","1.0","70.0",
+"a0a1N0000085v42QAA","false","Software Support","USD","Software","Services","01t1N00000EURKvQAP",,,,,"0.0","100.0","Click"
+"a0a1N0000085v43QAA","false","Processor","USD",,"Image","01t1N00000EURLrQAP",,,,"1.0","1.0","10.0","Click"
+"a0a1N0000085v44QAA","false","Memory Capacity","USD",,"Image","01t1N00000EURLrQAP",,,,"1.0","1.0","20.0","Click"
+"a0a1N0000085v45QAA","false","Hard Drive","USD",,"Image","01t1N00000EURLrQAP",,,,"1.0","1.0","30.0","Click"
+"a0a1N0000085v46QAA","false","Network Adapter","USD",,"Image","01t1N00000EURLrQAP",,,,"1.0","1.0","40.0","Click"
+"a0a1N0000085v47QAA","false","Processor","USD",,"Image","01t1N00000EURKqQAP",,,,"1.0","1.0","10.0","Click"
+"a0a1N0000085v48QAA","false","Memory Capacity","USD",,"Image","01t1N00000EURKqQAP",,,,"1.0","1.0","20.0","Click"
+"a0a1N0000085v49QAA","false","Hard Drive","USD",,"Image","01t1N00000EURKqQAP",,,,"1.0","1.0","30.0","Click"
+"a0a1N0000085v4AQAQ","false","Network Adapter","USD",,"Image","01t1N00000EURKqQAP",,,,"1.0","1.0","40.0","Click"
+"a0a1N0000085v4BQAQ","false","Processor","USD",,"Image","01t1N00000EURLfQAP",,,,"1.0","1.0","10.0","Click"
+"a0a1N0000085v4CQAQ","false","Memory Capacity","USD",,"Image","01t1N00000EURLfQAP",,,,"1.0","1.0","20.0","Click"
+"a0a1N0000085v4DQAQ","false","Hard Drive","USD",,"Image","01t1N00000EURLfQAP",,,,"1.0","1.0","30.0","Click"
+"a0a1N0000085v4EQAQ","false","Network Adapter","USD",,"Image","01t1N00000EURLfQAP",,,,"1.0","1.0","40.0","Click"
+"a0a1N0000085v4FQAQ","false","Dispatch","USD",,,,"a0C1N00000GumA8UAJ",,,"1.0","0.0","20.0",
+"a0a1N0000085v4GQAQ","false","Billing","USD",,,,"a0C1N00000GumA8UAJ",,,,"0.0","30.0",
+"a0a1N0000085v4HQAQ","false","Processor","USD",,"Image","01t1N00000EURLDQA5",,,,"1.0","1.0","10.0","Click"
+"a0a1N0000085v4IQAQ","false","Memory Capacity","USD",,"Image","01t1N00000EURLDQA5",,,,"1.0","1.0","20.0","Click"
+"a0a1N0000085v4JQAQ","false","Hard Drive","USD",,"Image","01t1N00000EURLDQA5",,,,"1.0","1.0","30.0","Click"
+"a0a1N0000085v4KQAQ","false","Network Adapter","USD",,"Image","01t1N00000EURLDQA5",,,,"1.0","1.0","40.0","Click"
+"a0a1N0000085v4LQAQ","false","ePCR","USD",,,,,,,"1.0","1.0","10.0",
+"a0a1N0000085v4MQAQ","false","Services","USD",,,,,,,,"1.0","40.0",
+"a0a1N0000085v4NQAQ","false","Feature 1","USD",,,,,,,"3.0","1.0","1.0",

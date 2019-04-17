@@ -1,0 +1,5 @@
+"Id","IsDeleted","CurrencyIsoCode","SBQQ__LookupField__c","SBQQ__MatchType__c","SBQQ__Operator__c","SBQQ__ParentRuleIsActive__c","SBQQ__RuleTargetsCalculator__c","SBQQ__TestedField__c","SBQQ__TestedObject__c","SBQQ__TestedValue__c","SBQQ__RuleLookupObject__c","SBQQ__PriceRule2__c","SBQQ__ProductRule__c","SBQQ__TestedConfigurationAttribute__c"
+"a0R1N000009j9AyUAI","false","USD","Product_Family__c","Field Value","equals","true","true","SBQQ__ProductFamily__c","Quote Line",,"Discount_Tier__c","a0V1N00000DHGu7UAH",,
+"a0R1N000009j9AzUAI","false","USD","Engineering_Options__c","Field Value","equals","true","true","Engineering_Options_PO__c","Quote Line",,"Professional_Services_Rate__c","a0V1N00000DHGu8UAH",,
+"a0R1N000009j9B0UAI","false","USD","Resource_Location__c","Field Value","equals","true","true","Resource_Location_PO__c","Quote Line",,"Professional_Services_Rate__c","a0V1N00000DHGu8UAH",,
+"a0R1N000009j9B1UAI","false","USD","Role__c","Field Value","equals","true","true","SBQQ__Product__c","Quote Line",,"Professional_Services_Rate__c","a0V1N00000DHGu8UAH",,

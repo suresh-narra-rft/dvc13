@@ -1,0 +1,8 @@
+"Id","IsDeleted","Name","CurrencyIsoCode","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__Product__c","SBQQ__TargetObject__c","Test_Text__c"
+"a0V1N00000DHGu7UAH","false","Set Approval Threshold By Product Family","USD","true",,"All",,"On Calculate","1.0","Discount_Tier__c",,"Calculator",
+"a0V1N00000DHGu8UAH","false","Set Professional Service Role Rates","USD","true",,"All",,"On Calculate","1.0","Professional_Services_Rate__c",,"Calculator",
+"a0V1N00000DHGu9UAH","false","Set Power Cable and Server Quantity","USD","true","(1 AND 4) OR (2 AND 3 AND 4)","Custom","Edit","On Initialization;Before Calculate;On Calculate;After Calculate","1.0",,,"Configurator",
+"a0V1N00000DHGuAUAX","false","Set Cost on quote","USD","true",,"All",,"On Calculate","1.0",,,"Calculator",
+"a0V1N00000DHGuBUAX","false","Set Pricing Method to Cost for Hardware Lines","USD","true",,"All",,"On Initialization;Before Calculate;On Calculate;After Calculate",,,,"Calculator",
+"a0V1N00000DHGuCUAX","false","Set Pricing Method to List for Hardware Lines","USD","true",,"All",,"On Initialization;Before Calculate;On Calculate;After Calculate",,,,"Calculator",
+"a0V1N00000DHGuDUAX","false","Set Approval Level","USD","true",,"All",,"On Initialization;On Calculate;After Calculate",,,,"Calculator",

@@ -1,0 +1,5 @@
+"Id","IsDeleted","Name","CurrencyIsoCode","SBQQ__QuoteProcess__c","SBQQ__Active__c","SBQQ__BinaryChoice__c","SBQQ__ConditionsMet__c","SBQQ__DefaultField__c","SBQQ__DisplayOrder__c","SBQQ__InputField__c","SBQQ__IntegerInput__c","SBQQ__Label__c","SBQQ__Operator__c","SBQQ__ProcessInputCondition__c","SBQQ__ProductField__c","Business_Solution__c","Deployment_Options__c","Commercial_Segment__c","Server_Replacements__c"
+"a0Y1N00000DJKqMUAX","false","Server Types","USD","a0g1N00000FEfqCQAT","true",,"All",,"2.0","Server_Replacements__c",,"What server types?","equals",,"Server_Replacements__c",,,,
+"a0Y1N00000DJKqNUAX","false","Business Solution","USD","a0g1N00000FEfqCQAT","true",,"All",,"1.0","Business_Solution__c",,"What business problem are you solving?","equals",,"Business_Solution__c",,,,
+"a0Y1N00000DJKqOUAX","false","Deployment Options","USD","a0g1N00000FEfqCQAT","true",,"All",,"3.0","Deployment_Options__c",,"Deployment Options","equals",,"Deployment_Options__c",,,,
+"a0Y1N00000DJKqPUAX","false","Commercial Segment","USD","a0g1N00000FEfqCQAT","true",,"All",,"4.0","Commercial_Segment__c",,"Commercial Segment","equals",,"Commercial_Segment__c",,,,

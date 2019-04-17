@@ -1,0 +1,4 @@
+"Id","IsDeleted","Name","CurrencyIsoCode","SBQQ__ProcessInput__c","SBQQ__Active__c","SBQQ__MasterProcessInput__c","SBQQ__Operator__c","SBQQ__Value__c"
+"a0W1N00000ItrBGUAZ","false","Consolidate IT assets","USD","a0Y1N00000DJKqMUAX","true","a0Y1N00000DJKqNUAX","equals","Consolidate IT assets"
+"a0W1N00000ItrBHUAZ","false","Manage Time and Expenses","USD","a0Y1N00000DJKqOUAX","true","a0Y1N00000DJKqNUAX","equals","Manage Time and Expenses"
+"a0W1N00000ItrBIUAZ","false","Manage Time and Expenses","USD","a0Y1N00000DJKqPUAX","true","a0Y1N00000DJKqNUAX","equals","Manage Time and Expenses"

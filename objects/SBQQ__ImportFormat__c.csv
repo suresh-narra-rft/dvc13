@@ -1,0 +1,4 @@
+"Id","IsDeleted","CurrencyIsoCode","SBQQ__Active__c","SBQQ__ImportFormatName__c","SBQQ__TargetObject__c","SBQQ__UniqueKeyCount__c"
+"a0M1N00000D5BWrUAN","false","USD","true","Import Lines - CSV","Quote Line","1.0"
+"a0M1N00000D5BWsUAN","false","USD","true","Import Lines - CSV (TP)","Quote Line","1.0"
+"a0M1N00000D5BWtUAN","false","USD","true","Import Format 0329","Quote Line","1.0"

@@ -1,0 +1,8 @@
+"Id","IsDeleted","Name","CurrencyIsoCode","SBQQ__ConstrainedOption__c","SBQQ__Active__c","SBQQ__CheckPriorPurchases__c","SBQQ__ConfiguredSKU__c","SBQQ__ConstrainingOption__c","SBQQ__OptionConstraintGroup__c","SBQQ__Type__c","Constrained_Option_Name__c","Constraining_Option_Name__c"
+"a0S1N000007aAQgUAM","false","Block and Unlimited Exclusion","USD","a0b1N00000CoLAAQA3","true","false","01t1N00000EURLpQAP",,,"Exclusion","Expense Reimbursement Block",
+"a0S1N000007aAQhUAM","false","User training needs admin","USD","a0b1N00000CoLA1QAN","true","false","01t1N00000EURLpQAP",,,"Dependency","T&E Training Portal for End Users",
+"a0S1N000007aAQiUAM","false","User reporting training needs admin","USD","a0b1N00000CoLAHQA3","true","false","01t1N00000EURLpQAP",,,"Dependency","T&E Reporting Training Portal for End Users",
+"a0S1N000007aAQjUAM","false","Block and Unlimited Exclusion Constraint","USD","a0b1N00000CoLADQA3","true","false","01t1N00000EURKoQAP",,,"Exclusion","Expense Reimbursement Block",
+"a0S1N000007aAQkUAM","false","user training admin dependent","USD","a0b1N00000CoLAOQA3","true","false","01t1N00000EURKoQAP",,,"Dependency","T&E Training Portal for End Users",
+"a0S1N000007aAQlUAM","false","reporting admin dependency","USD","a0b1N00000CoLAPQA3","true","false","01t1N00000EURKoQAP",,,"Dependency","T&E Reporting Training Portal for End Users",
+"a0S1N000007aAQmUAM","false","Needs bolt down kit","USD","a0b1N00000CoL9eQAF","true","false","01t1N00000EURKvQAP",,,"Dependency","Maxspace TX 600mm/750mm Stabalizer Plate",

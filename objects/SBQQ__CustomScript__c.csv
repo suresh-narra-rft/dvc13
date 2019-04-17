@@ -1,0 +1,17 @@
+"Id","IsDeleted","Name","CurrencyIsoCode","SBQQ__Code__c","SBQQ__GroupFields__c","SBQQ__QuoteFields__c","SBQQ__QuoteLineFields__c","SBQQ__TranspiledCode__c"
+"a091N00000bc6ilQAA","false","JSQCP_PG","USD","export function onAfterCalculate(quoteModel, quoteLines, conn) {
+    
+    var totalISV = 0.00;
+
+    if (quoteLines != null) {
+        quoteLines.forEach(function (line) {
+            var subNetTotal  = line.record[""Subscription_Net_Price__c""] || 0;
+            var currNetTotal = line.record[""SBQQ__NetTotal__c""] || 0;
+            var ISV = (currNetTotal - subNetTotal);
+            totalISV += ISV;
+        });
+    }
+
+     quoteModel.record[""ISV__c""] = totalISV;
+}",,,"Subscription_Net_Price__c
+SBQQ__NetTotal__c","""use strict"";System.register(""QCPlugin____UIDFiller____"",[],function(_export,_context){""use strict"";function onAfterCalculate(quoteModel,quoteLines,conn){var totalISV=0.00;if(quoteLines!=null){quoteLines.forEach(function(line){var subNetTotal=line.record[""Subscription_Net_Price__c""]||0;var currNetTotal=line.record[""SBQQ__NetTotal__c""]||0;var ISV=currNetTotal-subNetTotal;totalISV+=ISV;});}quoteModel.record[""ISV__c""]=totalISV;}_export(""onAfterCalculate"",onAfterCalculate);return{setters:[],execute:function(){}};});"

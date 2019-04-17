@@ -1,0 +1,12 @@
+"Id","IsDeleted","CurrencyIsoCode","SBQQ__Rule__c","SBQQ__Field__c","SBQQ__FilterFormula__c","SBQQ__FilterType__c","SBQQ__FilterVariable__c","SBQQ__Index__c","SBQQ__Object__c","SBQQ__Operator__c","SBQQ__ParentRuleIsActive__c","SBQQ__RuleTargetsCalculator__c","SBQQ__TestedFormula__c","SBQQ__TestedVariable__c","SBQQ__Value__c"
+"a0U1N00000BXzqaUAD","false","USD","a0V1N00000DHGuCUAX","EditLinesFieldSetName__c",,"Value",,,"Quote","equals","true","true",,,"Standard"
+"a0U1N00000BXzqbUAD","false","USD","a0V1N00000DHGuCUAX","SBQQ__ProductFamily__c",,"Value",,,"Quote Line","equals","true","true",,,"Hardware"
+"a0U1N00000BXzqcUAD","false","USD","a0V1N00000DHGuCUAX","SwitchedToCost__c",,"Value",,,"Quote","equals","true","true",,,"true"
+"a0U1N00000BXzqdUAD","false","USD","a0V1N00000DHGu9UAH",,,"Value",,"4.0","Summary Variable","greater than","true","false",,"a0s1N000006gdY2QAI","1"
+"a0U1N00000BXzqTUAT","false","USD","a0V1N00000DHGu9UAH","OSKUProduct_Line__c",,"Value",,"1.0","Product Option","equals","true","false",,,"Power Cables"
+"a0U1N00000BXzqUUAT","false","USD","a0V1N00000DHGu9UAH","OSKUProduct_Line__c",,"Value",,"2.0","Product Option","equals","true","false",,,"Operating System"
+"a0U1N00000BXzqVUAT","false","USD","a0V1N00000DHGu9UAH","Product Code",,"Value",,"3.0","Product Option","not equals","true","false",,,"CONFIG NOSW"
+"a0U1N00000BXzqWUAT","false","USD","a0V1N00000DHGu7UAH","Product Code",,"Value",,,"Quote Line","not equals","true","true",,,
+"a0U1N00000BXzqXUAT","false","USD","a0V1N00000DHGuBUAX","EditLinesFieldSetName__c",,"Value",,,"Quote","equals","true","true",,,"Cost"
+"a0U1N00000BXzqYUAT","false","USD","a0V1N00000DHGuBUAX","SBQQ__ProductFamily__c",,"Value",,,"Quote Line","equals","true","true",,,"Hardware"
+"a0U1N00000BXzqZUAT","false","USD","a0V1N00000DHGuBUAX","SwitchedToCost__c",,"Value",,,"Quote","equals","true","true",,,"false"

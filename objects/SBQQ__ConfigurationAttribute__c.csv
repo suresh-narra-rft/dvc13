@@ -1,0 +1,9 @@
+"Id","IsDeleted","Name","CurrencyIsoCode","RecordTypeId","SBQQ__AppliedImmediately__c","SBQQ__ApplyToProductOptions__c","SBQQ__AutoSelect__c","SBQQ__ColumnOrder__c","SBQQ__DisplayOrder__c","SBQQ__Feature__c","SBQQ__HiddenValues__c","SBQQ__Hidden__c","SBQQ__Position__c","SBQQ__Product__c","SBQQ__Required__c","SBQQ__ShownValues__c","SBQQ__TargetField__c","SBQQ__Global__c","SBQQ__DefaultField__c","SBQQ__DefaultObject__c"
+"a021N00000WVuduQAD","false","Memory Configuration","USD",,"true","false","false","1","1.0",,,"false","Top","01t1N00000EURKyQAP","false",,"Memory_Config__c","false",,
+"a021N00000WVudvQAD","false","Server Configuration","USD",,"true","false","false","1","1.0",,,"false","Top","01t1N00000EURKyQAP","true",,"Configuration__c","false",,
+"a021N00000WVudwQAD","false","Engineering Options","USD",,"true","false","false","2","1.0",,,"false","Top","01t1N00000EURKdQAP","false",,"Engineering_Options__c","false",,
+"a021N00000WVudxQAD","false","Resource Location","USD",,"true","true","false","1","1.0",,,"false","Top","01t1N00000EURKdQAP","false",,"Resource_Location__c","false",,
+"a021N00000WVudyQAD","false","Comments/Assumptions","USD",,"false","true","false","1","1.0",,,"false","Bottom","01t1N00000EURKdQAP","false",,"Assumptions_Comments_ER__c","false",,
+"a021N00000WVudzQAD","false","Comments/Assumptions","USD",,"false","true","false","1","1.0",,,"false","Bottom","01t1N00000EURKdQAP","false",,"Assumptions_Comments_PM__c","false",,
+"a021N00000WVue0QAD","false","Comments/Assumptions","USD",,"false","true","false","1","1.0",,,"false","Bottom","01t1N00000EURKdQAP","false",,"Assumptions_Comments_SA__c","false",,
+"a021N00000WVue1QAD","false","Deployment","USD",,"true","false","false","1","1.0",,,"false","Top","01t1N00000EURKoQAP","true",,"Deployment__c","false",,

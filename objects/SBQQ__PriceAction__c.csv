@@ -1,0 +1,17 @@
+"Id","IsDeleted","CurrencyIsoCode","SBQQ__Rule__c","SBQQ__Field__c","SBQQ__Formula__c","SBQQ__Order__c","SBQQ__ParentRuleIsActive__c","SBQQ__RuleTargetsCalculator__c","SBQQ__SourceLookupField__c","SBQQ__SourceVariable__c","SBQQ__TargetObject__c","SBQQ__ValueField__c","SBQQ__Value__c","SBQQ__RuleLookupObject__c"
+"a0T1N000008tMYwUAM","false","USD","a0V1N00000DHGu9UAH","SBQQ__Quantity__c",,,"true","false",,"a0s1N000006gdY2QAI","Product Option",,,
+"a0T1N000008tMYxUAM","false","USD","a0V1N00000DHGu7UAH","Manager_Discount_Threshold__c",,,"true","true","Manager_Discount_Threshold__c",,"Quote Line",,,"Discount_Tier__c"
+"a0T1N000008tMYyUAM","false","USD","a0V1N00000DHGu7UAH","Finance_Discount_Threshold__c",,,"true","true","Finance_Discount_Threshold__c",,"Quote Line",,,"Discount_Tier__c"
+"a0T1N000008tMYzUAM","false","USD","a0V1N00000DHGu8UAH","SBQQ__ListPrice__c",,,"true","true","List_Price__c",,"Quote Line",,,"Professional_Services_Rate__c"
+"a0T1N000008tMZ0UAM","false","USD","a0V1N00000DHGu8UAH","SBQQ__UnitCost__c",,,"true","true","Unit_Cost__c",,"Quote Line",,,"Professional_Services_Rate__c"
+"a0T1N000008tMZ1UAM","false","USD","a0V1N00000DHGuAUAX","Total_Cost__c",,,"true","true",,"a0s1N000006gdY3QAI","Quote Line",,,
+"a0T1N000008tMZ2UAM","false","USD","a0V1N00000DHGuBUAX","Markup (%)",,"2.0","true","true",,,"Quote Line",,"40",
+"a0T1N000008tMZ3UAM","false","USD","a0V1N00000DHGuBUAX","SBQQ__PricingMethod__c",,"1.0","true","true",,,"Quote Line",,"Cost",
+"a0T1N000008tMZ4UAM","false","USD","a0V1N00000DHGuBUAX","SwitchedToCost__c",,"3.0","true","true",,,"Quote",,"true",
+"a0T1N000008tMZ5UAM","false","USD","a0V1N00000DHGuCUAX","Markup (%)","null","2.0","true","true",,,"Quote Line",,,
+"a0T1N000008tMZ6UAM","false","USD","a0V1N00000DHGuCUAX","SBQQ__PricingMethod__c",,"1.0","true","true",,,"Quote Line",,"List",
+"a0T1N000008tMZ7UAM","false","USD","a0V1N00000DHGuCUAX","SwitchedToCost__c",,"3.0","true","true",,,"Quote",,"false",
+"a0T1N000008tMZ8UAM","false","USD","a0V1N00000DHGu7UAH","Manager_Cost_Threshold__c",,,"true","true","Manager_Cost_Threshold__c",,"Quote Line",,,"Discount_Tier__c"
+"a0T1N000008tMZ9UAM","false","USD","a0V1N00000DHGu7UAH","Finance_Cost_Threshold__c",,,"true","true","Finance_Cost_Threshold__c",,"Quote Line",,,"Discount_Tier__c"
+"a0T1N000008tMZAUA2","false","USD","a0V1N00000DHGuDUAX","Approval_Level_system__c","IF( TEXT(SBQQ__PricingMethod__c) = ""Cost"", Cost_Approval_Level__c,
+Approval_Level__c)",,"true","true",,,"Quote Line",,,
